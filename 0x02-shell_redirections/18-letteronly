@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^AUTHPRIV" /etc/ssh/sshd_config
